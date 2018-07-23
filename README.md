@@ -1,2 +1,2 @@
 # hackerrank-code
-Contains my solved problems from hackerrank.com.
+Contains problems solvedby me on www.hackerrank.com
